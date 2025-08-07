@@ -14,10 +14,10 @@ dependencies:
     sdk: flutter
 
   rwkv_mobile_flutter:
-    path: ../rwkv_mobile_flutter
-  #    git:
-  #      url: https://github.com/MollySophia/rwkv_mobile_flutter
-  #      ref: dev
+    # path: ../rwkv_mobile_flutter
+    git:
+      url: https://github.com/MollySophia/rwkv_mobile_flutter
+      ref: dev
 
   rwkv_downloader:
     # path: ../rwkv_downloader
